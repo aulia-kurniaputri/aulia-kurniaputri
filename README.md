@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aulia!
+I'm an urban designer + planner with 6.5 years of industry experience and 2+ years of research experience. My current focus is examining the role of data-driven approach in urban planning and design, particularly in pedestrian realms. My pronouns are She/Her/Hers.
 
-<!--
-**aulia-kurniaputri/aulia-kurniaputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My research profile
+pedestrian planning, inclusive mobility, spatial analysis, pedestrian modeling, active transportation, urban design, urban heat island, vulnerable urban population.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Industry project experience
+TODs, public parks, community spaces, commercial areas, mixed-use lots, residential areas, industrial complex.
+
+
+## Getting in touch
+- ✉️ kurniaputri.aulia@gmail.com
+- www.linkedin.com/in/aulia-kurniaputri
+
+
+*more updates coming soon..*
