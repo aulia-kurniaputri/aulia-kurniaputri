@@ -6,7 +6,7 @@ I'm an urban designer + planner with 6.5 years of industry experience and 2+ yea
 pedestrian planning, inclusive mobility, spatial analysis, pedestrian modeling, active transportation, urban design, urban heat island, vulnerable urban population.
 
 
-## Industry project experience
+## Project experience
 TODs, public parks, community spaces, commercial areas, mixed-use lots, residential areas, industrial complex.
 
 
